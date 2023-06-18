@@ -1,0 +1,43 @@
+
+ * {
+  padding-left: 15px;
+ }
+
+ .courses {
+    width:1200px;
+    height: 30px;
+    border-top:0;
+    border-left:0;
+    border-right:0;
+ }
+
+ .schedule {
+   background-color: white;
+    box-shadow: 5px 5px 5px 8px  #dedddd;
+    margin-left: 60px ;
+    margin-right: 0px;
+    
+ }
+ .box {
+   margin: 60px;
+
+ }
+
+ .time {
+    width:430px;
+    height: 30px;
+    border-top:0;
+    border-left:0;
+    border-right:0;
+ }
+
+.item {
+  padding-left: 60px;
+}
+
+.button {
+  color: rgb(251, 251, 252);
+  background-color: rgb(13, 13, 243);
+  border-radius: 5px;
+ 
+}
